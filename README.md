@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-Repository for the Natural Language Processing elective course of MIDS at Duke University.
+Repository for the Natural Language Processing (ECE 684) elective course of MIDS at Duke University.
 <br>
 <br>
 
