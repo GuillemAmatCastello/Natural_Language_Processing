@@ -9,5 +9,5 @@ Repository for the Natural Language Processing elective course of MIDS at Duke U
 | Folder | Description |
 | --- |---|
 | `Assignments`       | 3 Assignments on Regular Expressions, Latent Dirichlet Allocation and the Viterbi Algorithm      |
-| `Team Projects`     | 4 Team Projects on  Markov Text Generator, Text Correction, Neural Networks to solve XOR and Recurrent Neural Networks |
+| `Team Projects`     | 4 Team Projects on  Markov Text Generation, Text Correction, Neural Networks and Recurrent Neural Networks |
 | `Final Project`     | Final Project on Sentiment Analysis using Latent Dirichlet Allocation and Long-Short Term Memory |
